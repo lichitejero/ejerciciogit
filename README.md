@@ -1,0 +1,2 @@
+# ejerciciogit
+trabajo de clase
